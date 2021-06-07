@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.modelrepair.bowling:Tournament xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.modelrepair.bowling="https://org/eclipse/modelrepair/bowling">
+  <matchups>
+    <games>
+      <player href="league.bowling#//@players.0"/>
+    </games>
+    <games>
+      <player href="league.bowling#//@players.1"/>
+    </games>
+    <games>
+      <player href="league.bowling#//@players.0"/>
+    </games>
+    <games>
+      <player href="league.bowling#//@players.1"/>
+    </games>
+  </matchups>
+  <matchups>
+    <games>
+      <player href="league.bowling#//@players.3"/>
+    </games>
+    <games>
+      <player href="league.bowling#//@players.2"/>
+    </games>
+  </matchups>
+</org.eclipse.modelrepair.bowling:Tournament>

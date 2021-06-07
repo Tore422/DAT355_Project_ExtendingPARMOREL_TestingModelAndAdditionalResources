@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.modelrepair.bowling:League xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.modelrepair.bowling="https://org/eclipse/modelrepair/bowling" name="Super_League">
+  <players name="Player1" dateOfBirth="1990-10-15T00:00:00.000+0100" height="-9.0"/>
+  <players name="Player2" height="170.0"/>
+  <players name="This is a super long name far too long to be allowed" dateOfBirth="1999-12-23T00:00:00.000+0100" height="180.0" isProfessional="true"/>
+  <players name="Player that is too high" dateOfBirth="1988-07-04T00:00:00.000+0200" height="1000.0"/>
+</org.eclipse.modelrepair.bowling:League>
